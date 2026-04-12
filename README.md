@@ -122,15 +122,15 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=openai,anthropic,gemini,langchain,huggingface,pytorch&theme=dark" alt="AI & ML" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,selenium&theme=dark" alt="AI & ML" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,datadog,elasticsearch,kafka,cloudflare&theme=dark" alt="Observability & Infra" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,kafka,cloudflare,nginx&theme=dark" alt="Observability & Infra" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vercel,vscode,github,postman,obsidian,markdown&theme=dark" alt="Tools & Workflow" />
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,obsidian,markdown,jest&theme=dark" alt="Tools & Workflow" />
 
 </div>
 
