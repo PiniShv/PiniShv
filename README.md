@@ -151,7 +151,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PiniShv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiniShv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
 <img height="170em" src="https://streak-stats.demolab.com?user=PiniShv&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
@@ -176,7 +176,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PiniShv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=PiniShv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 <br>
