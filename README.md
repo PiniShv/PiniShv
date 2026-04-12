@@ -110,19 +110,27 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux&theme=dark" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" alt="Cloud & IaC" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redis,postgres,mongodb&theme=dark" alt="Tools & Frameworks" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,nginx,linux,git&theme=dark" alt="DevOps & CI/CD" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=openai,anthropic,gemini,langchain,huggingface,vercel&theme=dark" alt="AI & ML" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redis,postgres,mongodb&theme=dark" alt="Frameworks & Data" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cloudflare,grafana,prometheus,datadog&theme=dark" alt="Observability" />
+<img src="https://skillicons.dev/icons?i=openai,anthropic,gemini,langchain,huggingface,pytorch&theme=dark" alt="AI & ML" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,datadog,elasticsearch,kafka,cloudflare&theme=dark" alt="Observability & Infra" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=vercel,vscode,github,postman,obsidian,markdown&theme=dark" alt="Tools & Workflow" />
 
 </div>
 
