@@ -20,5 +20,5 @@ jobs:
         with:
           feed_list: "https://pinishv.com/index.xml"
           max_post_count: 5
-          template: "- [$title]($url)"
+          template: "- [$title]($url)\n"
           comment_tag_name: "BLOG-POST-LIST"
