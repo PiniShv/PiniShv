@@ -116,14 +116,15 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redis,postgres,mongodb&theme=dark" alt="Tools & Frameworks" />
 
-<br><br>
+<br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![Vercel](https://img.shields.io/badge/Vercel_AI_SDK-0d1117?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=F38020)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=white)
+<br>
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Vercel](https://img.shields.io/badge/Vercel_AI_SDK-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 </div>
 
