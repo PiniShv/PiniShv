@@ -118,17 +118,11 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 <br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+<img src="https://skillicons.dev/icons?i=openai,anthropic,gemini,langchain,huggingface,vercel&theme=dark" alt="AI & ML" />
+
 <br>
-![Vercel](https://img.shields.io/badge/Vercel_AI_SDK-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Datadog](https://img.shields.io/badge/Datadog-0d1117?style=for-the-badge&logo=datadog&logoColor=632CA6)
+
+<img src="https://skillicons.dev/icons?i=cloudflare,grafana,prometheus,datadog&theme=dark" alt="Observability" />
 
 </div>
 
