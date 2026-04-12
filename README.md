@@ -217,3 +217,4 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a3a6b,60:0d2137,100:0d1117&height=120&section=footer)
+
