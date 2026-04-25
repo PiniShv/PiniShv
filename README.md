@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [I Don&#39;t Put All My Eggs in One Basket. Anthropic Is Making That Hard.](https://pinishv.com/articles/anthropic-q1-2026-catching-the-wave/)- [The IDE Is Becoming Mission Control](https://pinishv.com/articles/ide-becoming-mission-control/)- [Your AI Stack Is Rented Until You Can Run Part of It Yourself](https://pinishv.com/articles/local-llms-your-stack-is-rented/)- [AI Makes Code Cheap to Produce. Not Cheap to Own.](https://pinishv.com/articles/ai-code-cheap-to-produce-not-to-own/)- [&#39;I Only Built a Small Script for Myself.&#39; That Might Be the Most Dangerous Sentence in Your Company.](https://pinishv.com/articles/shadow-ai-most-dangerous-sentence/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [100 Days to the EU AI Act Deadline. Your Engineering Team Hasn&#39;t Started.](https://pinishv.com/articles/eu-ai-act-100-days-engineering-not-started/)- [The Vibe Coding Backlash Is Right. Seniors Are Losing the Argument Anyway.](https://pinishv.com/articles/vibe-coding-backlash-seniors-lose-argument/)- [The End of Courses: Learn From AI Like a Toddler, Or Become Obsolete](https://pinishv.com/articles/end-of-courses-learn-from-ai-like-a-toddler/)- [I Don&#39;t Put All My Eggs in One Basket. Anthropic Is Making That Hard.](https://pinishv.com/articles/anthropic-q1-2026-catching-the-wave/)- [The IDE Is Becoming Mission Control](https://pinishv.com/articles/ide-becoming-mission-control/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
