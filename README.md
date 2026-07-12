@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [Stop Reviewing Code. Start Reviewing Evidence.](https://pinishv.com/articles/stop-reviewing-code-start-reviewing-evidence/)- [Agentic Overwatch: Why Your Next Dev Team Will Look Like a NASA Control Room](https://pinishv.com/articles/agentic-overwatch/)- [The One-Man Show Company. Don&#39;t Let the Monkeys Touch Production.](https://pinishv.com/articles/one-man-show-company/)- [100 Days to the EU AI Act Deadline. Your Engineering Team Hasn&#39;t Started.](https://pinishv.com/articles/eu-ai-act-100-days-engineering-not-started/)- [The Vibe Coding Backlash Is Right. Seniors Are Losing the Argument Anyway.](https://pinishv.com/articles/vibe-coding-backlash-seniors-lose-argument/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Alberta Scanned 466 Million Lines of Code in 20 Hours. The Architecture Is the Story.](https://pinishv.com/articles/alberta-466-million-lines-20-hours/)- [Stop Reviewing Code. Start Reviewing Evidence.](https://pinishv.com/articles/stop-reviewing-code-start-reviewing-evidence/)- [Agentic Overwatch: Why Your Next Dev Team Will Look Like a NASA Control Room](https://pinishv.com/articles/agentic-overwatch/)- [The One-Man Show Company. Don&#39;t Let the Monkeys Touch Production.](https://pinishv.com/articles/one-man-show-company/)- [100 Days to the EU AI Act Deadline. Your Engineering Team Hasn&#39;t Started.](https://pinishv.com/articles/eu-ai-act-100-days-engineering-not-started/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
