@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [Everyone Trained Their Engineers on AI. The Gap Didn&#39;t Move.](https://pinishv.com/articles/everyone-trained-their-engineers-the-gap-didnt-move/)- [Make the Cheap Path the Default. Make the Expensive Path Prove It.](https://pinishv.com/articles/ai-agent-cost-reduction-playbook/)- [Alberta Scanned 466 Million Lines of Code in 20 Hours. The Architecture Is the Story.](https://pinishv.com/articles/alberta-466-million-lines-20-hours/)- [Stop Reviewing Code. Start Reviewing Evidence.](https://pinishv.com/articles/stop-reviewing-code-start-reviewing-evidence/)- [Agentic Overwatch: Why Your Next Dev Team Will Look Like a NASA Control Room](https://pinishv.com/articles/agentic-overwatch/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Rethinking the SDLC: Execution Is No Longer the Constraint](https://pinishv.com/articles/execution-is-no-longer-the-constraint/)- [Everyone Trained Their Engineers on AI. The Gap Didn&#39;t Move.](https://pinishv.com/articles/everyone-trained-their-engineers-the-gap-didnt-move/)- [Make the Cheap Path the Default. Make the Expensive Path Prove It.](https://pinishv.com/articles/ai-agent-cost-reduction-playbook/)- [Alberta Scanned 466 Million Lines of Code in 20 Hours. The Architecture Is the Story.](https://pinishv.com/articles/alberta-466-million-lines-20-hours/)- [Stop Reviewing Code. Start Reviewing Evidence.](https://pinishv.com/articles/stop-reviewing-code-start-reviewing-evidence/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
