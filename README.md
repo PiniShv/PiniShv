@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [Human Review Is Scarce Now. Stop Spending It Line by Line.](https://pinishv.com/articles/human-review-is-a-scarce-resource/)- [The Scarce Skill Isn&#39;t Writing Code. It&#39;s Knowing What Shouldn&#39;t Exist.](https://pinishv.com/articles/from-code-writer-to-system-governor/)- [A Ticket Is a Lossy Compression of Intent](https://pinishv.com/articles/tickets-are-lossy-compression-of-intent/)- [Rethinking the SDLC: Execution Is No Longer the Constraint](https://pinishv.com/articles/execution-is-no-longer-the-constraint/)- [Everyone Trained Their Engineers on AI. The Gap Didn&#39;t Move.](https://pinishv.com/articles/everyone-trained-their-engineers-the-gap-didnt-move/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Coverage Was Always Theater. Agents Made It Free.](https://pinishv.com/articles/from-coverage-theater-to-proof-of-behavior/)- [Human Review Is Scarce Now. Stop Spending It Line by Line.](https://pinishv.com/articles/human-review-is-a-scarce-resource/)- [The Scarce Skill Isn&#39;t Writing Code. It&#39;s Knowing What Shouldn&#39;t Exist.](https://pinishv.com/articles/from-code-writer-to-system-governor/)- [A Ticket Is a Lossy Compression of Intent](https://pinishv.com/articles/tickets-are-lossy-compression-of-intent/)- [Rethinking the SDLC: Execution Is No Longer the Constraint](https://pinishv.com/articles/execution-is-no-longer-the-constraint/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
