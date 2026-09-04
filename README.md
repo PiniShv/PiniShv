@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [Stop Asking Whether Agents Should Act in an Incident. Decide How Far.](https://pinishv.com/articles/incident-autonomy-tiers/)- [Your Infrastructure Assumes a Human at the Keyboard](https://pinishv.com/articles/when-the-primary-operator-is-an-agent/)- [Your Pipeline Runs Scripts. It Should Be Making Decisions.](https://pinishv.com/articles/the-pipeline-is-becoming-an-agent/)- [Coverage Was Always Theater. Agents Made It Free.](https://pinishv.com/articles/from-coverage-theater-to-proof-of-behavior/)- [Human Review Is Scarce Now. Stop Spending It Line by Line.](https://pinishv.com/articles/human-review-is-a-scarce-resource/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Your Dashboards Were Built for Eyes. Your Operator Doesn&#39;t Have Any.](https://pinishv.com/articles/observability-for-machines-not-just-humans/)- [Stop Asking Whether Agents Should Act in an Incident. Decide How Far.](https://pinishv.com/articles/incident-autonomy-tiers/)- [Your Infrastructure Assumes a Human at the Keyboard](https://pinishv.com/articles/when-the-primary-operator-is-an-agent/)- [Your Pipeline Runs Scripts. It Should Be Making Decisions.](https://pinishv.com/articles/the-pipeline-is-becoming-an-agent/)- [Coverage Was Always Theater. Agents Made It Free.](https://pinishv.com/articles/from-coverage-theater-to-proof-of-behavior/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
