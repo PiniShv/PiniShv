@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/)- [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/)- [Your Dashboards Were Built for Eyes. Your Operator Doesn&#39;t Have Any.](https://pinishv.com/articles/observability-for-machines-not-just-humans/)- [Stop Asking Whether Agents Should Act in an Incident. Decide How Far.](https://pinishv.com/articles/incident-autonomy-tiers/)- [Your Infrastructure Assumes a Human at the Keyboard](https://pinishv.com/articles/when-the-primary-operator-is-an-agent/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Your Agent Has Prod Access. Your IAM Thinks It&#39;s a Person.](https://pinishv.com/articles/the-agent-is-the-new-attack-surface/)- [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/)- [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/)- [Your Dashboards Were Built for Eyes. Your Operator Doesn&#39;t Have Any.](https://pinishv.com/articles/observability-for-machines-not-just-humans/)- [Stop Asking Whether Agents Should Act in an Incident. Decide How Far.](https://pinishv.com/articles/incident-autonomy-tiers/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
