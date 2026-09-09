@@ -140,7 +140,7 @@ I don't just write code. I **mentor engineers**, **lead teams**, and **write abo
 
 *I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
 
-<!-- BLOG-POST-LIST:START -->- [You&#39;re Not Managing Engineers Anymore. You&#39;re Allocating Judgment.](https://pinishv.com/articles/managing-fleets-of-agents-and-humans/)- [Your Agent Has Prod Access. Your IAM Thinks It&#39;s a Person.](https://pinishv.com/articles/the-agent-is-the-new-attack-surface/)- [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/)- [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/)- [Your Dashboards Were Built for Eyes. Your Operator Doesn&#39;t Have Any.](https://pinishv.com/articles/observability-for-machines-not-just-humans/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The Agentic Software Factory: Every Control Surface, Named](https://pinishv.com/articles/the-agentic-software-factory/)- [You&#39;re Not Managing Engineers Anymore. You&#39;re Allocating Judgment.](https://pinishv.com/articles/managing-fleets-of-agents-and-humans/)- [Your Agent Has Prod Access. Your IAM Thinks It&#39;s a Person.](https://pinishv.com/articles/the-agent-is-the-new-attack-surface/)- [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/)- [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/)<!-- BLOG-POST-LIST:END -->
 
 <div align="right">
 <a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
