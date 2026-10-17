@@ -1,223 +1,146 @@
-<div align="center">
+<a href="https://pinishv.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiniShv/PiniShv/main/assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiniShv/PiniShv/main/assets/hero-light.svg">
+    <img alt="Pini Shvartsman. The agent writes the code. The engineer owns the outcome." src="https://raw.githubusercontent.com/PiniShv/PiniShv/main/assets/hero-dark.svg" width="100%">
+  </picture>
+</a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:1a3a6b,100:58a6ff&height=200&section=header&animation=fadeIn)
+<p align="center">
+  <a href="https://pinishv.com"><img alt="Blog: pinishv.com" src="https://img.shields.io/badge/pinishv.com-0D1B2A?style=for-the-badge&logo=rss&logoColor=34D399"></a>
+  <a href="https://www.linkedin.com/in/pinishv"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzM0RDM5OSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4="></a>
+  <a href="https://x.com/pinishv"><img alt="X" src="https://img.shields.io/badge/@pinishv-0D1B2A?style=for-the-badge&logo=x&logoColor=34D399"></a>
+  <a href="https://t.me/by_pini"><img alt="Telegram channel" src="https://img.shields.io/badge/Telegram-0D1B2A?style=for-the-badge&logo=telegram&logoColor=34D399"></a>
+  <a href="https://www.youtube.com/@pinishv"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0D1B2A?style=for-the-badge&logo=youtube&logoColor=34D399"></a>
+  <a href="mailto:pini@pinishv.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=34D399"></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Hey%2C+I'm+Pini+Shvartsman+%F0%9F%91%8B" alt="Hey, I'm Pini Shvartsman" />
+## 👋 Hi, I'm Pini
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=750&height=35&lines=Head+of+DevOps+%26+Innovation+%40+Stampli;Engineering+Leader+%7C+Mentor+%7C+Open+Source+Contributor;Building+AI+agents+that+ship+production+code;15%2B+years+turning+impossible+infrastructure+into+reality;5%2C000%2B+followers+reading+what+I+write+about+AI+%26+DevOps" alt="Typing SVG" />
+I lead AI transformation at a global SaaS platform. My job is to change how **100+ engineers** work, now that AI does much of the execution.
 
-<br><br>
+I build the systems behind that change: agents that **investigate bugs**, **write and review code**, **check changes**, and **run operational workflows**. The goal is not to replace engineers. It is to remove the repetitive work, so they can do real engineering.
 
-<a href="https://pinishv.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PiniShv.com-Read_My_Blog-58a6ff?style=for-the-badge&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/pinishv"><img src="https://img.shields.io/badge/LinkedIn-4,200+_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://x.com/pinishv"><img src="https://img.shields.io/badge/X_(Twitter)-@PiniShv-white?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
+I joined that company as **employee #5**. I built the test framework, the CI/CD, the first deploy pipeline and the first monitoring, and I flew to Ukraine to hire our offshore team. When AI agents became good enough, I treated them the way I treated infrastructure back then: not a trend to watch, but a capability to run in production.
 
-<br>
+The one sentence behind everything I write:
 
-<a href="https://dev.to/pinishv"><img src="https://img.shields.io/badge/DEV.to-13+_Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://youtube.com/@pinishv"><img src="https://img.shields.io/badge/YouTube-@PiniShv-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://t.me/pinishv"><img src="https://img.shields.io/badge/Telegram-@PiniShv-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117" /></a>
+> **Execution is cheap. Intent, context, verification, judgment, and control are not.**
 
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="200"><b>15+</b><br><sub>Years in Tech</sub></td>
-<td align="center" width="200"><b>5,000+</b><br><sub>Blog Followers</sub></td>
-<td align="center" width="200"><b>4,200+</b><br><sub>LinkedIn Network</sub></td>
-<td align="center" width="200"><b>13+</b><br><sub>Published Articles</sub></td>
-</tr>
-</table>
-</div>
-
----
-
-<br>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;The Short Version
-
-> **I build things that weren't supposed to work — and then I teach others how to do it too.**
-
-I'm the kind of engineer who went from soldering circuit boards to orchestrating AI agent fleets in production. Head of DevOps & Innovation at **Stampli**, where I lead the infrastructure that powers enterprise AI. Before that — 15 years of breaking, fixing, and scaling systems that people said couldn't be scaled.
-
-I don't just write code. I **mentor engineers**, **lead teams**, and **write about the future of AI and infrastructure** for thousands of readers every week. If you've ever wondered what happens when you give a DevOps engineer access to GPT-4 and a Kubernetes cluster — my blog is the answer.
-
-<br>
-
-## 🧭 &nbsp;What I Actually Do
+## 📚 Start here
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🏗️ &nbsp;I Build
-- AI agent systems that run in production (not demos)
-- Cloud infrastructure at scale (AWS, K8s, Terraform)
-- Automation that eliminates toil, not just moves it
-- Open source tools (Vercel AI SDK, SwiftLint contributor)
+### [The Agentic Software Factory: Every Control Surface, Named →](https://pinishv.com/articles/the-agentic-software-factory/)
 
-</td>
-<td width="50%" valign="top">
+The final part of my 14-part series, ***Rethinking the SDLC***. It covers the whole flow from intent to verified behavior, the nine places where humans actually govern it, five failure modes that look like success, and an honest maturity model.
 
-### 🎯 &nbsp;I Lead & Mentor
-- Engineering teams shipping to production daily
-- DevOps culture transformation in orgs
-- Engineers leveling up from mid to senior
-- Technical strategy & architecture decisions
+If you read one piece, make it this one. Then hand it to your leadership team.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>All 14 parts</b></summary>
+<br>
 
-### ✍️ &nbsp;I Write
-- Weekly on [PiniShv.com](https://pinishv.com) — AI, DevOps, leadership
-- On [DEV.to](https://dev.to/pinishv) — deep dives & tutorials
-- Topics: AI agents, security, infrastructure, team culture
-- Read by engineering leaders worldwide
+1. [Rethinking the SDLC: Execution Is No Longer the Constraint](https://pinishv.com/articles/execution-is-no-longer-the-constraint/)
+2. [A Ticket Is a Lossy Compression of Intent](https://pinishv.com/articles/tickets-are-lossy-compression-of-intent/)
+3. [The Scarce Skill Isn't Writing Code. It's Knowing What Shouldn't Exist.](https://pinishv.com/articles/from-code-writer-to-system-governor/)
+4. [Human Review Is Scarce Now. Stop Spending It Line by Line.](https://pinishv.com/articles/human-review-is-a-scarce-resource/)
+5. [Coverage Was Always Theater. Agents Made It Free.](https://pinishv.com/articles/from-coverage-theater-to-proof-of-behavior/)
+6. [Your Pipeline Runs Scripts. It Should Be Making Decisions.](https://pinishv.com/articles/the-pipeline-is-becoming-an-agent/)
+7. [Your Infrastructure Assumes a Human at the Keyboard](https://pinishv.com/articles/when-the-primary-operator-is-an-agent/)
+8. [Stop Asking Whether Agents Should Act in an Incident. Decide How Far.](https://pinishv.com/articles/incident-autonomy-tiers/)
+9. [Your Dashboards Were Built for Eyes. Your Operator Doesn't Have Any.](https://pinishv.com/articles/observability-for-machines-not-just-humans/)
+10. [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/)
+11. [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/)
+12. [Your Agent Has Prod Access. Your IAM Thinks It's a Person.](https://pinishv.com/articles/the-agent-is-the-new-attack-surface/)
+13. [You're Not Managing Engineers Anymore. You're Allocating Judgment.](https://pinishv.com/articles/managing-fleets-of-agents-and-humans/)
+14. [The Agentic Software Factory: Every Control Surface, Named](https://pinishv.com/articles/the-agentic-software-factory/)
 
-</td>
-<td width="50%" valign="top">
-
-### 💡 &nbsp;I Think About
-- How AI agents will reshape engineering orgs
-- What "infrastructure" means in 2026
-- The gap between AI hype and production reality
-- Why the best engineers are also the best writers
+</details>
 
 </td>
 </tr>
 </table>
 
-<br>
+## ✍️ Latest writing
 
-## 🛠️ &nbsp;Tech Stack
+<!-- BLOG-POST-LIST:START -->
+- [The Agentic Software Factory: Every Control Surface, Named](https://pinishv.com/articles/the-agentic-software-factory/) <sub>· Sep 8, 2026</sub>
+- [You&#39;re Not Managing Engineers Anymore. You&#39;re Allocating Judgment.](https://pinishv.com/articles/managing-fleets-of-agents-and-humans/) <sub>· Sep 7, 2026</sub>
+- [Your Agent Has Prod Access. Your IAM Thinks It&#39;s a Person.](https://pinishv.com/articles/the-agent-is-the-new-attack-surface/) <sub>· Sep 6, 2026</sub>
+- [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/) <sub>· Sep 5, 2026</sub>
+- [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/) <sub>· Sep 4, 2026</sub>
 
-<div align="center">
+<!-- BLOG-POST-LIST:END -->
 
-**What I work with daily — from bare metal to AI models**
+<sub>This list updates itself every day. **[All 80+ articles →](https://pinishv.com/articles/)** · Rawer notes, weeks earlier: **[the Telegram channel](https://t.me/by_pini)**</sub>
 
-<br>
+## 🧪 Built in the open
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,swift,bash&theme=dark" alt="Languages" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### [aidentity](https://github.com/PiniShv/aidentity)
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" alt="Cloud & IaC" />
+Run two accounts of the same Mac app at the same time. Work Claude and personal Claude, side by side, both signed in.
 
-<br>
+One shell script. No daemon, nothing in the background.
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,nginx,linux,git&theme=dark" alt="DevOps & CI/CD" />
+```bash
+brew install pinishv/tap/aidentity
+```
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redis,postgres,mongodb&theme=dark" alt="Frameworks & Data" />
+### [Claude Export Reader](https://github.com/PiniShv/AnthropicReader)
 
-<br>
+Read a Claude team data export in your browser: every person, conversation, artifact, project and memory.
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,selenium&theme=dark" alt="AI & ML" />
+One HTML file. Works offline. Nothing is uploaded.
 
-<br>
+**[Download v1.0.0 →](https://github.com/PiniShv/AnthropicReader/releases/latest)**
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,kafka,cloudflare,nginx&theme=dark" alt="Observability & Infra" />
+</td>
+</tr>
+</table>
 
-<br>
+## 🧰 What I work with
 
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,obsidian,markdown,jest&theme=dark" alt="Tools & Workflow" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cgo%2Cbash%2Cswift%2Cnodejs%2Creact%2Cnextjs%2Caws%2Cgcp%2Ccloudflare%2Cterraform%2Ckubernetes%2Cdocker%2Cgithubactions%2Cgrafana&perline=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cgo%2Cbash%2Cswift%2Cnodejs%2Creact%2Cnextjs%2Caws%2Cgcp%2Ccloudflare%2Cterraform%2Ckubernetes%2Cdocker%2Cgithubactions%2Cgrafana&perline=8&theme=light">
+  <img alt="Python, TypeScript, Go, Bash, Swift, Node.js, React, Next.js, AWS, GCP, Cloudflare, Terraform, Kubernetes, Docker, GitHub Actions, Grafana" src="https://skillicons.dev/icons?i=py%2Cts%2Cgo%2Cbash%2Cswift%2Cnodejs%2Creact%2Cnextjs%2Caws%2Cgcp%2Ccloudflare%2Cterraform%2Ckubernetes%2Cdocker%2Cgithubactions%2Cgrafana&perline=8&theme=dark">
+</picture>
 
-</div>
+On top of that sits the agent layer: coding agents, MCP integrations, evaluation pipelines, approval gates, and the observability that makes agents safe to run in production.
 
-<br>
+## 🐍 Activity
 
-## ✍️ &nbsp;Latest Writing
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiniShv/PiniShv/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiniShv/PiniShv/output/github-snake.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/PiniShv/PiniShv/output/github-snake-dark.svg" width="100%">
+</picture>
 
-*I publish weekly on AI, DevOps, and engineering leadership. Here's what's fresh:*
+## 🤝 Let's talk
 
-<!-- BLOG-POST-LIST:START -->- [The Agentic Software Factory: Every Control Surface, Named](https://pinishv.com/articles/the-agentic-software-factory/)- [You&#39;re Not Managing Engineers Anymore. You&#39;re Allocating Judgment.](https://pinishv.com/articles/managing-fleets-of-agents-and-humans/)- [Your Agent Has Prod Access. Your IAM Thinks It&#39;s a Person.](https://pinishv.com/articles/the-agent-is-the-new-attack-surface/)- [DORA Measured the Old Constraint. Agents Broke the Instrument.](https://pinishv.com/articles/dora-measured-the-old-constraint/)- [Technical Debt Just Got Cheaper. Something Worse Moved In.](https://pinishv.com/articles/technical-debt-the-interest-rate-just-changed/)<!-- BLOG-POST-LIST:END -->
+I compare notes with engineering leaders who are in the middle of this change. People usually want to talk about:
 
-<div align="right">
-<a href="https://pinishv.com">📖 Read more on PiniShv.com →</a>
-</div>
+- **Review gates that survive AI speed**: what still holds when agents open forty PRs a week
+- **Growing senior engineers** when agents write the first 80%
+- **Putting agents on the org chart**: owners, KPIs, escalation paths
+- **Where adoption stalls after the pilot**: it is almost never the tooling
 
-<br>
+I also speak to teams, leadership groups and conferences, remote or in person.
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiniShv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170em" src="https://streak-stats.demolab.com?user=PiniShv&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiniShv&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="95%"/>
-</div>
-
-<br>
-
-## 🐍 &nbsp;Watch the Snake Eat My Contributions
-
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PiniShv/PiniShv/output/github-snake-dark.svg" />
-</div>
-
-<br>
-
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=PiniShv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
+**[Start a conversation →](https://pinishv.com/lets-talk/)**
 
 <br>
 
----
-
-<div align="center">
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Taking+things+apart+and+building+something+better+—+from+circuit+boards+to+cloud+architectures+to+AI+agents+that+ship+production+code.&author=Pini+Shvartsman" />
-
-<br><br>
-
-### 🤝 &nbsp;Let's Connect
-
-**Whether you want to talk AI agents, need a mentor, or just want to argue about Kubernetes —**
-**my DMs are open.**
-
-<br>
-
-<a href="https://pinishv.com"><img src="https://img.shields.io/badge/Blog-PiniShv.com-58a6ff?style=for-the-badge&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/pinishv"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://x.com/pinishv"><img src="https://img.shields.io/badge/X-Follow_Me-white?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
-&nbsp;
-<a href="mailto:pini@pinishv.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PiniShv&color=58a6ff&style=flat-square&label=Profile+Views+Since+You+Got+Here)
-
-<br>
-
-*If you made it this far, you should probably just follow me.* 😉
-
-</div>
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a3a6b,60:0d2137,100:0d1117&height=120&section=footer)
-
+<p align="center">
+  <sub><i>If you made it this far, you should probably just follow me.</i> 😉</sub>
+</p>

@@ -20,5 +20,9 @@ jobs:
         with:
           feed_list: "https://pinishv.com/index.xml"
           max_post_count: 5
-          template: "- [$title]($url)\n"
+          # The action trims this input, so a trailing "\n" is lost and every
+          # post lands on one line. $newline survives the trim.
+          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          tag_post_pre_newline: true
           comment_tag_name: "BLOG-POST-LIST"

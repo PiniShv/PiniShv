@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Pini Shvartsman. The agent writes the code. The engineer owns the outcome.">
+<title>Pini Shvartsman: the agent writes the code, the engineer owns the outcome</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0D1B2A"/><stop offset="1" stop-color="#071220"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.18" r="0.6">
+    <stop offset="0" stop-color="#10B981" stop-opacity="0.2"/>
+    <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="fade" cx="0.7" cy="0.35" r="0.75">
+    <stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="gridmask"><rect width="1200" height="460" fill="url(#fade)"/></mask>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.1" fill="#8FA0B3" fill-opacity="0.2"/>
+  </pattern>
+  <clipPath id="card"><rect width="1200" height="460" rx="20"/></clipPath>
+</defs>
+<style>
+  .label { font: 600 15px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; letter-spacing: 2.4px; fill: #34D399; }
+  .h { font: 700 64px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -1.2px; fill: #EEF2F7; }
+  .h .em { fill: #34D399; }
+  .sub { font: 400 21px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8FA0B3; }
+  .legend { font: 500 12px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; letter-spacing: 1.2px; fill: #8FA0B3; }
+  .chip rect { fill: #0B1826; stroke: #2B4260; stroke-width: 1.2; }
+  .chip text { font: 600 13px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; letter-spacing: 1.4px; fill: #8FA0B3; }
+  .chip.agent rect { fill: #34D399; stroke: #34D399; }
+  .chip.agent text { fill: #071220; }
+  .chip rect { animation: ping-box 7.0s ease-out infinite; }
+  .chip text { animation: ping-text 7.0s ease-out infinite; }
+  .chip.agent rect { animation-name: ping-agent; }
+  .chip.agent text { animation: none; }
+  @keyframes ping-box { 0% { stroke: #34D399; } 12%, 100% { stroke: #2B4260; } }
+  @keyframes ping-text { 0% { fill: #34D399; } 12%, 100% { fill: #8FA0B3; } }
+  @keyframes ping-agent { 0% { fill: #A7F3D0; stroke: #A7F3D0; } 12%, 100% { fill: #34D399; stroke: #34D399; } }
+  .cursor { fill: #34D399; animation: blink 2.6s ease-in-out infinite; }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  .pulse { fill: #34D399; animation: travel 7.0s linear infinite; }
+  @keyframes travel {
+    0% { transform: translateX(0); opacity: 0; }
+    4% { opacity: 1; }
+    86% { transform: translateX(670.5px); opacity: 1; }
+    92%, 100% { transform: translateX(670.5px); opacity: 0; }
+  }
+  .node { fill: #23364D; }
+  .node.on { fill: #34D399; }
+  @media (prefers-reduced-motion: reduce) {
+    .chip rect, .chip text, .cursor { animation: none; }
+    .pulse { animation: none; opacity: 0; }
+  }
+</style>
+<g clip-path="url(#card)">
+  <rect width="1200" height="460" fill="url(#bg)"/>
+  <rect width="1200" height="460" fill="url(#dots)" mask="url(#gridmask)"/>
+  <rect width="1200" height="460" fill="url(#glow)"/>
+</g>
+<rect x="0.75" y="0.75" width="1198.5" height="458.5" rx="19.5" fill="none" stroke="#23364D" stroke-width="1.5"/>
+
+<line x1="62" y1="92" x2="62" y2="397" stroke="#23364D" stroke-width="1.5"/>
+<rect class="node" x="58" y="88" width="8" height="8" rx="1.5"/><rect class="node on" x="58" y="164" width="8" height="8" rx="1.5"/><rect class="node" x="58" y="244" width="8" height="8" rx="1.5"/><rect class="node" x="58" y="316" width="8" height="8" rx="1.5"/><rect class="node" x="58" y="393" width="8" height="8" rx="1.5"/>
+
+<g>
+  <rect x="104" y="81" width="10" height="10" rx="2" fill="#34D399"/>
+  <text class="label" x="126" y="91">PINI SHVARTSMAN — AI TRANSFORMATION &amp; AUTONOMOUS ENGINEERING</text>
+</g>
+<text class="h" x="101" y="182" textLength="772" lengthAdjust="spacing">The agent writes the code.</text>
+<g>
+  <text class="h" x="101" y="262" textLength="936" lengthAdjust="spacing" xml:space="preserve">The engineer <tspan class="em">owns the outcome</tspan></text>
+  <rect class="cursor" x="1049" y="212" width="26" height="54" rx="3"/>
+</g>
+<text class="sub" x="104" y="322">I lead AI transformation for a global SaaS platform: 100+ engineers, AI agents in production.</text>
+
+<g>
+  <line x1="146.5" y1="397.0" x2="817.0" y2="397.0" stroke="#2B4260" stroke-width="1.5" stroke-dasharray="3 5"/>
+  <circle class="pulse" cx="146.5" cy="397.0" r="4"/>
+  <g class="chip"><rect style="animation-delay:0.00s" x="104" y="380" width="85" height="34" rx="6"/><text style="animation-delay:0.00s" x="146.5" y="402" text-anchor="middle">INTENT</text></g><g class="chip"><rect style="animation-delay:1.04s" x="215" y="380" width="94" height="34" rx="6"/><text style="animation-delay:1.04s" x="262.0" y="402" text-anchor="middle">CONTEXT</text></g><g class="chip agent"><rect style="animation-delay:2.20s" x="335" y="380" width="113" height="34" rx="6"/><text style="animation-delay:2.20s" x="391.5" y="402" text-anchor="middle">EXECUTION</text></g><g class="chip"><rect style="animation-delay:3.57s" x="474" y="380" width="140" height="34" rx="6"/><text style="animation-delay:3.57s" x="544.0" y="402" text-anchor="middle">VERIFICATION</text></g><g class="chip"><rect style="animation-delay:4.90s" x="640" y="380" width="104" height="34" rx="6"/><text style="animation-delay:4.90s" x="692.0" y="402" text-anchor="middle">JUDGMENT</text></g><g class="chip"><rect style="animation-delay:6.02s" x="770" y="380" width="94" height="34" rx="6"/><text style="animation-delay:6.02s" x="817.0" y="402" text-anchor="middle">CONTROL</text></g>
+  <rect x="904" y="383" width="10" height="10" rx="2" fill="#34D399"/>
+  <text class="legend" x="922" y="392">AGENTS RUN IT</text>
+  <rect x="904.6" y="401.6" width="8.8" height="8.8" rx="2" fill="none" stroke="#2B4260" stroke-width="1.2"/>
+  <text class="legend" x="922" y="411">HUMANS OWN IT</text>
+</g>
+</svg>
